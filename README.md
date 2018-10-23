@@ -11,7 +11,7 @@ This project is still in development, here a list of things to do:
 
 ## Initial setup
 
-* Download the Arduino software [here](https://www.arduino.cc/en/Main/Software "Arduino software download page")
+* Download the Arduino software <a href="https://www.arduino.cc/en/Main/Software" target="_blank">here</a>
 * Open the project (`code.ino`)
 * Change the values as you wich ;)
 * Transfer it to the arduino
