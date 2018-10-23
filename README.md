@@ -4,7 +4,6 @@ You will be able to create a bright fire-like torch with leds and silk paper
 
 This project is still in development, here a list of things to do:
 
-* Set the resistance
 * Instructions for esthetics (this is not my part xD)
 
 ## Part list
@@ -13,6 +12,7 @@ This project is still in development, here a list of things to do:
 * <a href="https://www.adafruit.com/product/759" target="_blank">Jumper cables</a>
 * <a href="https://www.adafruit.com/product/67" target="_blank">Battery holder with switch</a>
 * <a href="https://www.adafruit.com/product/2700" target="_blank">Yellow leds</a>
+* 80Ω to 100Ω resistors
 
 
 ## Initial setup
