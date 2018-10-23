@@ -12,7 +12,7 @@ This project is still in development, here a list of things to do:
 * <a href="https://www.adafruit.com/product/759" target="_blank">Jumper cables</a>
 * <a href="https://www.adafruit.com/product/67" target="_blank">Battery holder with switch</a>
 * <a href="https://www.adafruit.com/product/2700" target="_blank">Yellow leds</a> (3V to 3.4V drop) 
-* 80Ω to 120Ω resistors (use <a href="http://ledcalc.com/" target="_blank">this site</a> to calculate the value with the drop voltage of the led
+* 80Ω to 120Ω resistors (use <a href="http://ledcalc.com/" target="_blank">this site</a> to calculate the value with the drop voltage of the led)
 
 
 ## Initial setup
