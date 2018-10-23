@@ -14,6 +14,7 @@ This project is still in development, here a list of things to do:
 * <a href="https://www.adafruit.com/product/2700" target="_blank">Yellow leds</a> (3V to 3.4V drop) 
 * 80Ω to 120Ω resistors (use <a href="http://ledcalc.com/" target="_blank">this site</a> to calculate the value with the drop voltage of the led)
 
+The datasheet for the led can be found <a href="https://cdn-shop.adafruit.com/product-files/2700/FLR-50T04-PY6__2012.02.22_.pdf" target="_blank">here</a>
 
 ## Initial setup
 
