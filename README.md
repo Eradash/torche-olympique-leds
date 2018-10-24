@@ -8,6 +8,7 @@ This project is still in development, here a list of things to do:
 
 ## Part list
 
+* <a href="https://store.arduino.cc/usa/arduino-uno-rev3" target="_blank">Arduino</a>
 * <a href="https://www.adafruit.com/product/65" target="_blank">Breadboard</a>
 * <a href="https://www.adafruit.com/product/759" target="_blank">Jumper cables</a>
 * <a href="https://www.adafruit.com/product/67" target="_blank">Battery holder with switch</a>
